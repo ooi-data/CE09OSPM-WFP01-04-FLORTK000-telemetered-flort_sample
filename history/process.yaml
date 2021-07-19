@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSPM-WFP01-04-FLORTK000-telemetered-flort_sample
 data_stream: CE09OSPM-WFP01-04-FLORTK000-telemetered-flort_sample
-end_date: '2021-05-02T21:35:01.000Z'
-last_updated: '2021-05-07T04:48:24.991938'
+end_date: '2021-07-06T18:33:18.000Z'
+last_updated: '2021-07-19T20:28:26.699312Z'
 start_date: '2014-04-19T03:02:36.000Z'
-status: success
+status: pending
