@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSPM-WFP01-04-FLORTK000-telemetered-flort_sample
-last_request: '2021-12-01T21:47:35.245874Z'
+last_request: '2021-12-21T23:21:32.771835Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSPM-WFP01-04-FLORTK000-telemetered-flort_sample/main/history/response.json
-status: success
+status: pending
